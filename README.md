@@ -1,15 +1,13 @@
 <p align="center">
   <img src="https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png" width="360" height="201">
   </p>
- <p align="center">
-  <img src="https://img.shields.io/github/license/oxitheman/NGL?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/github/stars/oxitheman/NGL?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/github/forks/oxitheman/NGL?style=for-the-badge&logo=appveyor">
-  </p>
+
   
-# 𝗡𝗚𝗟 𝗦𝗣𝗔𝗠𝗠𝗘𝗥
+# NGL.LINK SPAM BOT WITH PROXIES
  
- **𝗡𝗚𝗟 𝗦𝗣𝗔𝗠𝗠𝗘𝗥 𝗣𝗬** is a multithreaded NGL.LINK spammer! it can be used to annoy anyone who has ever done a ngl.link and has the app installed on their phone! it has numerous quality features to enhance the trolling and make it fun to use.
+ **ngl.link spam bot written in C#** is a multithreaded NGL.LINK spammer! it can be used to annoy anyone who has ever done a ngl.link and has the app installed on their phone! it has numerous quality features to enhance the trolling and make it fun to use.
+ 
+ **Uses proxies and it checks your proxies for dead ones and automatically deletes them
 
 # **DISCLAIMER**
 The automation of sending messages to ngl.link users is a violation of the terms of service of the website. Discretion is adviced. I will not be responsible for your actions. 
@@ -21,8 +19,12 @@ CLICK THE IMAGE TO PLAY!
 
 
 ## Contact
-Telegram -> https://t.me/OxiLOL
+Telegram -> https://t.me/c1337y
+Discord -> coazy#1337
 
-Email -> Oxitheman@gmail.com
 
+# Buy me a Coffee!
 
+Bitcoin -> bc1qw7twr934e9ps9atvgzkdqhpd80epv6s7trsuds
+Ethereum -> 0xEdCe525cABB24f77539B4Cf587F51E0A7AcCf3E7
+Litecoin -> LPm7jBEyqfsnen8tsrTpWxMYA6zp6C56eS
