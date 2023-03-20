@@ -14,9 +14,10 @@ The automation of sending messages to ngl.link users is a violation of the terms
 This was written as a proof of concept to show that the automation is possible. The author of this code is released of any liabilities which your usage may entail.
 
 ## Preview
-CLICK THE IMAGE TO PLAY!
-[![Youtube - Click to play](https://i.imgur.com/gAnspBJ.png)](https://youtube.com/shorts/FMkK9Gx4Acc?feature=share)
 
+https://i.imgur.com/4dZFyWx.png
+https://cdn.discordapp.com/attachments/811514578298601473/1087363637854871582/image.png
+https://i.imgur.com/V5N66iI.png
 
 ## Contact
 Telegram -> https://t.me/c1337y
