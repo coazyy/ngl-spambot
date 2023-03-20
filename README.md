@@ -18,10 +18,10 @@ This was written as a proof of concept to show that the automation is possible. 
   <img src="https://i.imgur.com/4dZFyWx.png" width="413" height="224">
   </p>
   <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/811514578298601473/1087363637854871582/image.png" width="413" height="300">
+  <img src="https://cdn.discordapp.com/attachments/811514578298601473/1087363637854871582/image.png" width="413" height="400">
   </p>
   <p align="center">
-  <img src="https://i.imgur.com/V5N66iI.png" width="413" height="224">
+  <img src="https://i.imgur.com/V5N66iI.png" width="413" height="400">
   </p>
 
 
