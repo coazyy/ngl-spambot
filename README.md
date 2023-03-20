@@ -7,7 +7,7 @@
  
  **ngl.link spam bot written in C#** is a multithreaded NGL.LINK spammer! it can be used to annoy anyone who has ever done a ngl.link and has the app installed on their phone! it has numerous quality features to enhance the trolling and make it fun to use.
  
- **Uses proxies and it checks your proxies for dead ones and automatically deletes them
+ **Uses proxies and it checks your proxies for dead ones and automatically deletes them**
 
 # **DISCLAIMER**
 The automation of sending messages to ngl.link users is a violation of the terms of service of the website. Discretion is adviced. I will not be responsible for your actions. 
