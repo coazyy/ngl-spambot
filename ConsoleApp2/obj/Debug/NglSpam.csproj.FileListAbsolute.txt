@@ -1,0 +1,11 @@
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\NglSpam.exe.config
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\NglSpam.exe
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\NglSpam.pdb
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NglSpam.csproj.AssemblyReference.cache
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NglSpam.csproj.SuggestedBindingRedirects.cache
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NglSpam.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NglSpam.csproj.CopyComplete
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NglSpam.exe
+C:\Users\max\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\NglSpam.pdb
