@@ -15,9 +15,11 @@ This was written as a proof of concept to show that the automation is possible. 
 
 ## Preview
 
-https://i.imgur.com/4dZFyWx.png
-https://cdn.discordapp.com/attachments/811514578298601473/1087363637854871582/image.png
-https://i.imgur.com/V5N66iI.png
+![1](https://i.imgur.com/4dZFyWx.png)
+![2](https://cdn.discordapp.com/attachments/811514578298601473/1087363637854871582/image.png)
+![3](https://i.imgur.com/V5N66iI.png)
+
+
 
 ## Contact
 Telegram -> https://t.me/c1337y
