@@ -14,7 +14,15 @@ The automation of sending messages to ngl.link users is a violation of the terms
 This was written as a proof of concept to show that the automation is possible. The author of this code is released of any liabilities which your usage may entail.
 
 ## Preview
-
+<p align="center">
+  <img src="https://i.imgur.com/4dZFyWx.png" width="360" height="201">
+  </p>
+  <p align="center">
+  <img src="https://cdn.discordapp.com/attachments/811514578298601473/1087363637854871582/image.png" width="360" height="201">
+  </p>
+  <p align="center">
+  <img src="https://i.imgur.com/V5N66iI.png" width="360" height="201">
+  </p>
 ![1](https://i.imgur.com/4dZFyWx.png)
 ![2](https://cdn.discordapp.com/attachments/811514578298601473/1087363637854871582/image.png)
 ![3](https://i.imgur.com/V5N66iI.png)
